@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentInfo title = "Second Semester">
+	<firstname>Stacy</firstname>
+     <lastname>Canencia</lastname>
+     <idNo.>200513236</idNo.>
+
+<subjects>
+     	<IT221>Fundamentals of Database System</IT221>
+     	<IT222> Networking 1</IT222>
+          <IT223>Integrative and Programming Technologies</IT223>
+          <IT224>Platform Technologies</IT224>
+          <IT225>Discrete Mathematics</IT225>
+     </subjects>
+   
+ </studentInfo>
